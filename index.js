@@ -1,1 +1,0 @@
-console.log("Iniciando novo projeto JavaScript!");
